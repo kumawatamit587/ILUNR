@@ -1,0 +1,143 @@
+.relative {
+  position: relative;
+  color: rgb(88, 88, 88);
+  top: 0%;
+}
+
+nav {
+    position: absolute;
+  top: 10px;
+  right: 0;
+}
+
+.home{
+  position: relative;
+}
+
+.dark{
+  position: absolute;
+  top: 0px;
+}
+/* .navbar{
+  position: absolute;
+  top: 0px;
+} */
+
+.join{
+  position: absolute;
+  background-color: transparent;
+  top: 31px;
+  border: 1px solid #FFFFFF;
+border-radius: 14px;
+opacity: 1;
+width: 168px;
+height: 45px;
+left: 1260px;
+}
+
+p{
+  color: #ffffff;
+}
+
+.contact{
+position: absolute;
+top: 31px;
+left:1470px;
+}
+
+.logo{
+  top: 31px;
+width: 150px;
+height: 50px;
+
+}
+.list-dark{
+  top: 92px;
+left: 1214px;
+width: 292px;
+height: 229px;
+border-radius: 15%;
+background-color: #ffffff;
+}
+ul.no-bullets {
+  list-style-type: none;
+  top: 124px;
+  left:1292px;
+}
+.list{
+padding-top: 25px;
+}
+
+/*
+Loginpage */
+
+.form{
+background-color: #ffffff;
+border-radius: 10%;
+top: 279px;
+left: 583px;
+width: 435px;
+height: 470px
+}
+.login-form{
+  margin: auto;
+padding-top: 40px;
+width: 325px;
+height: 49px;
+border-radius: 10px;
+}
+h3{
+  margin-left: 120px;
+  margin-bottom: 40px;
+}
+.submit{
+  width: 325px;
+  height: 49px;
+  background-color: blue;
+}
+.submit1{
+  width: 325px;
+  height: 49px;
+  margin-top: 40px;
+  background-color: transparent;
+  border: 2px solid blue;
+}
+
+h6{
+  margin-left: 45px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.wrong{
+  margin-left: 380px;
+  margin-top: 10px;
+}
+
+
+/*
+Loged */
+
+.r424{
+  top: 27px;
+  left: 1404px;
+width: 125px;
+height: 53px;
+}
+
+.g440{
+  top: 44px;
+left: 1435px;
+width: 20px;
+height: 15px;
+}
+.join1{
+  position: absolute;
+  background-color: transparent;
+  top: 31px;
+  border: 1px solid #FFFFFF;
+border-radius: 14px;
+opacity: 1;
+width: 168px;
+height: 45px;
+left: 1200px;
+}
